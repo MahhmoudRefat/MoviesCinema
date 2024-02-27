@@ -1,9 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MoviesCinema</string>
     <string name="album_id">Album ID</string>
     <string name="album_value">Album Value</string>
-    <string name="id">ID</string>
     <string name="title">Title</string>
     <string name="title_value">title value</string>
-
 </resources>
